@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi👋 My name is Soham and I'm a  web developer and UI/UX enthusiast with a passion for creating intuitive and visually appealing web applications.</h2>
 
+<h1 align="center">Hi 👋, I'm Soham</h1>
+<h3 align="center">Hi there! I’m a web developer and UI/UX enthusiast with a passion for creating intuitive and visually appealing web applications.</h3>
+
+<!--<h2 align="left">Hi👋 My name is Soham and I'm a  web developer and UI/UX enthusiast with a passion for creating intuitive and visually appealing web applications.</h2>
+-->
 ###
 
 <div align="left">
